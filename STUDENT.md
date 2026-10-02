@@ -6,7 +6,7 @@
 - Wersja Git: git 2.43.0
 - Wersja kompilatora C++: g++ 13.3.0
 - Wersje java i javac: 17.0.20.1
-- Link do pierwszego PR (uzupełnij w zadaniu 5): ...
+- Link do pierwszego PR (uzupełnij w zadaniu 5): https://github.com/matizimny8/oop-lab00-matizimny8/pull/1
 
 ## Uruchomienie lokalne
 Wynik programu C++:
@@ -19,8 +19,8 @@ Wynik programu Java:
 ```
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
+- Krótki fragment komunikatu błędu i numer linii: Error: Process completed with exit code 1. Linia 6
+- Przyczyna oraz sposób naprawy: Brak średnika - należy go dodać na koncu linii
 - Commit z błędem (SHA lub link): ...
 - Czy Actions pokazały błąd, a po naprawie sukces? ...
 
