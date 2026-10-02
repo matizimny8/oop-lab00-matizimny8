@@ -10,19 +10,19 @@
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```text
+```Hello from C++! Author: matizimny8
 ...
 ```
 Wynik programu Java:
-```text
+```Hello from Java! Author: matizimny8
 ...
 ```
 
 ## Błąd i poprawka (zadanie 5)
 - Krótki fragment komunikatu błędu i numer linii: Error: Process completed with exit code 1. Linia 6
 - Przyczyna oraz sposób naprawy: Brak średnika - należy go dodać na koncu linii
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Commit z błędem (SHA lub link): https://github.com/matizimny8/oop-lab00-matizimny8/pull/2/changes/a105b1c643f6d5b28e719930f49a1aca1087779c
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? Commit tworzy lokalny zapis plików, a push wysyła stworzone commity na repozytorium
@@ -30,4 +30,4 @@ Wynik programu Java:
 3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? Potwierdza, że program kompiluje sie poprawnie, nie potwierdza że program nie zawiera błędów logicznych 
 
 ## Ewentualne problemy środowiska
-Brak / opis problemu i sposób rozwiązania: ...
+Brak
